@@ -2,7 +2,7 @@
 
 Inspired by [From the Transistor](https://github.com/geohot/fromthetransistor)
 
-a lot of tutorials are hard to follow, and it's hard to understand [software 2.0][https://karpathy.medium.com/software-2-0-a64152b37c35] from first principles.
+a lot of tutorials are hard to follow, and it's hard to understand [software 2.0](https://karpathy.medium.com/software-2-0-a64152b37c35) from first principles
 
 > here's the steps to become high brow software engineering
 >
